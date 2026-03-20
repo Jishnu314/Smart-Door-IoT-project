@@ -1,4 +1,4 @@
-# 🚪 Smart Door — IoT Face Recognition Access Control
+# 🚪 Smart Door — IoT Face Recognition Access Control(more details on the way)
 
 <div align="center">
 
