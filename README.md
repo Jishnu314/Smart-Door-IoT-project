@@ -209,7 +209,7 @@ See [`docs/project_report.md`](docs/project_report.md) for the full detailed pro
 ## 👤 Author
 
 **JISHNU K**
-- GitHub: [@YOUR_USERNAME](https://github.com/)
+- GitHub: [@Jishnu314](https://github.com/Jishnu314)
 - Website: [your-website.com](https://)
 
 ---
