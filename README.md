@@ -208,9 +208,9 @@ See [`docs/project_report.md`](docs/project_report.md) for the full detailed pro
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Website: [your-website.com](https://your-website.com)
+**JISHNU K**
+- GitHub: [@YOUR_USERNAME](https://github.com/)
+- Website: [your-website.com](https://)
 
 ---
 
