@@ -21,7 +21,7 @@ When the button is pressed, the bell rings and the camera captures the visitor's
 
 ## 2. Problem Statement
 
-Traditional doorbells simply ring an alarm and require the homeowner to physically check who is at the door. This is inconvenient, time-consuming, and poses a safety risk — especially when the visitor is unknown or potentially a threat.
+Traditional doorbells only produce a sound alert, forcing homeowners to physically check the door. This is inconvenient, time-consuming, and can be unsafe—especially when the visitor is unknown. Additionally, if no one is at home, there is no way to monitor visitors, which increases the risk of theft or suspicious activity.
 
 **Problems with existing solutions:**
 - Traditional bells give no information about the visitor
