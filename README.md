@@ -15,7 +15,7 @@
 
 ## 📌 Overview
 
-Smart Door is an intelligent doorbell and access control system built on the **ESP32 microcontroller**. Unlike systems that run recognition continuously, Smart Door activates **only when a visitor presses the doorbell button** — making it efficient and precise.
+Smart Door /Smart Calling bell is an intelligent doorbell and access control system built on the **ESP32 microcontroller**. Unlike systems that run recognition continuously, Smart Door activates **only when a visitor presses the doorbell button** — making it efficient and precise.
 
 When the button is pressed:
 - 🔔 The **bell rings** instantly
