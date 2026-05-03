@@ -1,4 +1,4 @@
-# 🚪 Smart Door — IoT Face Recognition Access Control(more details on the way)
+# 🚪 Smart Door/ Smart calling Bell — IoT Face Recognition Access Control(more details on the way)
 
 <div align="center">
 
