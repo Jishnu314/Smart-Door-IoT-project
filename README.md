@@ -94,25 +94,6 @@ The ESP32 runs face recognition locally, comparing the captured face to the save
 ### Step 6 — Standby
 System returns to **deep sleep / low-power standby**, waiting for the next button press.
 
----
-
-## 📁 Project Structure
-
-```
-smart-door/
-├── src/
-│   ├── main.cpp              # Main program entry point
-│   ├── doorbell.cpp          # Button interrupt & bell trigger
-│   ├── camera.cpp            # Camera init & image capture
-│   ├── face_recognition.cpp  # Face detection & matching logic
-│   ├── door_lock.cpp         # Lock/unlock control
-│   └── alert.cpp             # Wi-Fi & Telegram alert with photo
-├── hardware/
-│   └── wiring_diagram.md     # Pin connections & wiring guide
-├── docs/
-│   └── project_report.md     # Full detailed project report
-└── README.md
-```
 
 ---
 
@@ -131,36 +112,12 @@ smart-door/
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/smart-door.git
-cd smart-door
-```
 
-### 2. Install dependencies
+
+### 1. Install dependencies
 - Install [Arduino IDE](https://www.arduino.cc/en/software) or [PlatformIO](https://platformio.org/)
 - Install **ESP32 board support** in Arduino IDE
-- Install **ESP-WHO** library for face recognition
 
-### 3. Configure your credentials
-Open `src/alert.cpp` and set:
-```cpp
-const char* WIFI_SSID     = "your_wifi_name";
-const char* WIFI_PASSWORD = "your_wifi_password";
-const char* BOT_TOKEN     = "your_telegram_bot_token";
-const char* CHAT_ID       = "your_telegram_chat_id";
-```
-
-### 4. Enroll authorized faces
-Run the enrollment mode to register faces into the database:
-```cpp
-// Set ENROLL_MODE = true in main.cpp, upload, face the camera
-// Set back to false after enrollment is done
-#define ENROLL_MODE true
-```
-
-### 5. Upload to ESP32
-Select your ESP32 board and port in Arduino IDE, then upload.
 
 ---
 
@@ -210,7 +167,7 @@ See [`docs/project_report.md`](docs/project_report.md) for the full detailed pro
 
 **JISHNU K**
 - GitHub: [@Jishnu314](https://github.com/Jishnu314)
-- Website: [your-website.com](https://)
+
 
 ---
 
